@@ -146,4 +146,3 @@ SimpleApplicationEventMulticaster中的相关代码
         }
 }
 
-源码地址:https://github.com/zuijiazhenrong/spring-event-demo
